@@ -306,3 +306,7 @@ document
     document.getElementById("txtThongBaoTienTip").className =
       "alert alert-danger d-block";
   });
+
+function addUser() {
+  console.log("themNguoiDung");
+}
