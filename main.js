@@ -308,5 +308,5 @@ document
   });
 
 function addUser() {
-  console.log("themNguoiDung");
+  console.log("TrungNguyenFake add User");
 }
